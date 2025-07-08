@@ -1,7 +1,7 @@
 
 # 🧠 Student Score Prediction Using Linear Regression
 
-This is a simple machine learning mini-project for beginners.  
+This is a simple machine learning mini-project.  
 We use **Linear Regression** to predict a student's exam score based on the number of hours they studied.
 
 ## 📁 Dataset
