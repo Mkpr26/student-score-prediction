@@ -11,6 +11,8 @@ Manually created dataset with:
 - **Hours Studied**
 - **Scores Obtained**
 
+Check the Predicted Score Using studied hours : https://mkpr26-student-score-prediction.streamlit.app/
+
 ## 📊 Libraries Used
 
 - Python
